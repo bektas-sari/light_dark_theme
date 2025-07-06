@@ -1,6 +1,7 @@
-# 📰 Modern Responsive Blog Page
+# 📰 Modern Responsive Blog Page (Light - Dark Theme Option)
 
-A visually appealing, fully responsive blog landing page with light and dark theme support. Built using semantic HTML5, modern CSS, and vanilla JavaScript, this single-page project demonstrates good practices in UI/UX design, accessibility, and theming.
+A visually appealing, fully responsive blog landing page with light and dark theme support. 
+Built using semantic HTML5, modern CSS, and vanilla JavaScript, this single-page project demonstrates good practices in UI/UX design, accessibility, and theming.
 
 ---
 
@@ -51,12 +52,6 @@ function toggleTheme() {
   setTheme(isDark);
 }
 ```
-
----
-
-## 📸 Images
-
-All images are pulled from [https://picsum.photos](https://picsum.photos) using static IDs for consistent appearance.
 
 ---
 
